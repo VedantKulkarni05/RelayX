@@ -1,3 +1,2 @@
 ## Project Status
-
--- Frontend development has not started yet.
+- Frontend development has not started yet.
